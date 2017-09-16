@@ -40,15 +40,21 @@ section{
 article{
 	text-align:center;
 	background:#777;
- 
-}
+	height:100px;
+	clear:both;
+	}
 h3
 {
 	text-align:center;
 	background:#ebebeb
+	width:75px;
+	background-color:#ebebeb;
+	margin-left:10%;
+	margin-right:10%;
 }
 
 #right {
+	left-margin:10px;
 	float:right;
 	text-align:center;
 	background:#ebebeb;
